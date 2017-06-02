@@ -103,9 +103,9 @@
 		<string>Blank</string>
 	</array>
 	<key>RWThemeName</key>
-	<string>Blankstrap</string>
+	<string>Blank</string>
 	<key>RWThemeShortName</key>
-	<string>Blankstrap</string>
+	<string>de.futural.blank</string>
 	<key>RWAddonSupportURL</key>
 	<string>https://github.com/jrondorf/Blank</string>
 	<key>RWVersion</key>
