@@ -1,3 +1,3 @@
-# Blank
+# Void
 
 Blank Theme for RapidWeaver

@@ -92,7 +92,7 @@
 	<key>RWThemeDisplayName</key>
 	<dict>
 		<key>en</key>
-		<string>Blank</string>
+		<string>Void</string>
 	</dict>
 	<key>RWThemeImage</key>
 	<string>preview.png</string>
@@ -100,14 +100,15 @@
 	<string>preview_large.jpg</string>
 	<key>RWThemeKeyWords</key>
 	<array>
+		<string>Void</string>
 		<string>Blank</string>
 	</array>
 	<key>RWThemeName</key>
-	<string>Blank</string>
+	<string>Void</string>
 	<key>RWThemeShortName</key>
-	<string>de.futural.blank</string>
+	<string>Void</string>
 	<key>RWAddonSupportURL</key>
-	<string>https://github.com/jrondorf/Blank</string>
+	<string>https://github.com/jrondorf/Void</string>
 	<key>RWVersion</key>
 	<integer>1</integer>
 </dict>

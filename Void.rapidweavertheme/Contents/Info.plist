@@ -7,11 +7,11 @@
 	<key>RWAddonManagerIconAsset</key>
 	<string>icon</string>
 	<key>RWAddonSupportURL</key>
-	<string>https://github.com/jrondorf/Blank</string>
+	<string>https://github.com/jrondorf/Void</string>
     <key>RWThemeIsResponsive</key>
     <true/>
 	<key>CFBundleIdentifier</key>
-	<string>blank</string>
+	<string>Void</string>
 	<key>CFBundleShortVersionString</key>
 	<string>0.0.1</string>
 	<key>CFBundleVersion</key>
@@ -21,6 +21,6 @@
 	<key>author/copyright info</key>
 	<string>inStacks Software</string>
 	<key>SUFeedURL</key>
-	<string>https://raw.githubusercontent.com/jrondorf/Blank/master/appcast.xml</string>
+	<string>https://raw.githubusercontent.com/jrondorf/Void/master/appcast.xml</string>
 </dict>
 </plist>
