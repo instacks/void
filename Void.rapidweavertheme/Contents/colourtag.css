@@ -1,3 +1,5 @@
 body {
     background-color: %colour_body_background%;
+    margin: 0;
+    padding: 0;
 }

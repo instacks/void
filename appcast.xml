@@ -7,12 +7,12 @@
 <language>en</language>
 <item>
 <title>Void Theme for RapidWeaver Update</title>
-<sparkle:releaseNotesLink>https://github.com/jrondorf/Void</sparkle:releaseNotesLink>
-<pubDate>Wed, 21 Jun 2017 12:00:00 +0000</pubDate>
+<sparkle:releaseNotesLink>https://github.com/instacks/Void</sparkle:releaseNotesLink>
+<pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
 <enclosure
- url="https://github.com/jrondorf/Void/releases/download/1.0.0/Void.zip"
- sparkle:version="100"
- sparkle:shortVersionString="1.0.0"
+ url="https://github.com/instacks/Void/releases/download/1.0.1/Void.zip"
+ sparkle:version="101"
+ sparkle:shortVersionString="1.0.1"
  length="1"
  type="application/octet-stream" />
 </item>

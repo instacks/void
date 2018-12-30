@@ -13,14 +13,14 @@
 	<key>CFBundleIdentifier</key>
 	<string>Void</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.0</string>
+	<string>1.0.1</string>
 	<key>CFBundleVersion</key>
-	<string>100</string>
+	<string>101</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>inStacks Software</string>
 	<key>author/copyright info</key>
 	<string>inStacks Software</string>
 	<key>SUFeedURL</key>
-	<string>https://raw.githubusercontent.com/jrondorf/Void/master/appcast.xml</string>
+	<string>https://raw.githubusercontent.com/instacks/Void/master/appcast.xml</string>
 </dict>
 </plist>
