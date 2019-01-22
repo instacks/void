@@ -7,20 +7,20 @@
 	<key>RWAddonManagerIconAsset</key>
 	<string>icon</string>
 	<key>RWAddonSupportURL</key>
-	<string>https://github.com/jrondorf/Void</string>
+	<string>https://github.com/instacks/void</string>
     <key>RWThemeIsResponsive</key>
     <true/>
 	<key>CFBundleIdentifier</key>
 	<string>Void</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.1</string>
+	<string>1.0.2</string>
 	<key>CFBundleVersion</key>
-	<string>101</string>
+	<string>102</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>inStacks Software</string>
 	<key>author/copyright info</key>
 	<string>inStacks Software</string>
 	<key>SUFeedURL</key>
-	<string>https://raw.githubusercontent.com/instacks/Void/master/appcast.xml</string>
+	<string>https://raw.githubusercontent.com/instacks/void/master/appcast.xml</string>
 </dict>
 </plist>

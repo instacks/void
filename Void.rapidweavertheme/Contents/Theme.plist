@@ -108,7 +108,7 @@
 	<key>RWThemeShortName</key>
 	<string>Void</string>
 	<key>RWAddonSupportURL</key>
-	<string>https://github.com/jrondorf/Void</string>
+	<string>https://github.com/instacks/void</string>
 	<key>RWVersion</key>
 	<integer>1</integer>
 </dict>

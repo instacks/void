@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>Void Theme for RapidWeaver</title>
-<link>https://github.com/jrondorf/Void</link>
+<link>https://github.com/instacks/void</link>
 <description>Void Theme for RapidWeaver</description>
 <language>en</language>
 <item>
 <title>Void Theme for RapidWeaver Update</title>
-<sparkle:releaseNotesLink>https://github.com/instacks/Void</sparkle:releaseNotesLink>
+<sparkle:releaseNotesLink>https://github.com/instacks/void</sparkle:releaseNotesLink>
 <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
 <enclosure
- url="https://github.com/instacks/Void/releases/download/1.0.1/Void.rapidweavertheme.zip"
- sparkle:version="101"
- sparkle:shortVersionString="1.0.1"
+ url="https://github.com/instacks/void/releases/download/1.0.2/Void.rapidweavertheme.zip"
+ sparkle:version="102"
+ sparkle:shortVersionString="1.0.2"
  length="1"
  type="application/octet-stream" />
 </item>
